@@ -1,0 +1,14 @@
+Package: com.github.io.ModernTouchTheme
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: FadelFilms <swagbro58@gmail.com>
+Depends: <Anemone>
+Filename: ModernTouchTheme.deb
+Size: <471440>
+MD5sum: <a3a88b2e911b50186f2ed033f49ae946>
+SHA1: <507c7630dba3c3d2a22f74075377eb81d91c75b5b>
+SHA256: <897cc431cf88f68c50c8724604a348d242b292a831c1ea4a1adac3811ad1adfb>
+Section: <Themes>
+Description: <This is a nice and clean grey theme>
+Author: FadelFilms <swagbro58@gmail.com>
+Name: ModernTouch Theme
