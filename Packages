@@ -1,5 +1,5 @@
-Package: com.github.io.ModernTouchTheme
-Version: 2.0
+Package: com.FadelFilms.ModernTouchTheme
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: FadelFilms <swagbro58@gmail.com>
 Depends: <Anemone>
